@@ -1,0 +1,18 @@
+<svg id="Android" xmlns="http://www.w3.org/2000/svg" width="231" height="74.703" viewBox="0 0 231 74.703">
+  <g id="Rectangle_66" data-name="Rectangle 66" transform="translate(0 0)" fill="#212121" stroke="#fff" stroke-width="2">
+    <rect width="231" height="74.703" rx="10" stroke="none"/>
+    <rect x="1" y="1" width="229" height="72.703" rx="9" fill="none"/>
+  </g>
+  <g id="Group_173" data-name="Group 173" transform="translate(20.632 9.96)">
+    <g id="_002-android-logo" data-name="002-android-logo" transform="translate(0 7.746)">
+      <g id="Group_117" data-name="Group 117" transform="translate(0 0)">
+        <path id="Path_234" data-name="Path 234" d="M44.946,179.141a2.317,2.317,0,0,0-1.7.7,2.29,2.29,0,0,0-.7,1.679v10.028a2.389,2.389,0,0,0,2.4,2.4,2.281,2.281,0,0,0,1.691-.7,2.338,2.338,0,0,0,.688-1.7V181.52a2.389,2.389,0,0,0-2.379-2.379Z" transform="translate(-42.544 -166.571)" fill="#fff"/>
+        <path id="Path_235" data-name="Path 235" d="M138.742,3.568,140.4.513a.307.307,0,0,0-.116-.466.323.323,0,0,0-.466.14l-1.679,3.079a11.7,11.7,0,0,0-9.375,0L127.082.187a.323.323,0,0,0-.466-.14.307.307,0,0,0-.116.466l1.656,3.055a10.225,10.225,0,0,0-4.011,3.58,9.042,9.042,0,0,0-1.493,5.026h21.572a9.045,9.045,0,0,0-1.493-5.026A10.269,10.269,0,0,0,138.742,3.568Zm-9.573,4.443a.874.874,0,0,1-.642.269.835.835,0,0,1-.63-.269.93.93,0,0,1,0-1.282.838.838,0,0,1,.63-.268.906.906,0,0,1,.642,1.55Zm9.83,0a.836.836,0,0,1-.629.269.91.91,0,0,1,0-1.819.838.838,0,0,1,.629.268.93.93,0,0,1,0,1.282Z" transform="translate(-117.03 0)" fill="#fff"/>
+        <path id="Path_236" data-name="Path 236" d="M123.971,200.982a2.547,2.547,0,0,0,2.565,2.565h1.726l.024,5.294a2.318,2.318,0,0,0,.7,1.7,2.29,2.29,0,0,0,1.679.7,2.389,2.389,0,0,0,2.4-2.4v-5.294h3.218v5.294a2.4,2.4,0,1,0,4.8,0v-5.294h1.749a2.547,2.547,0,0,0,2.542-2.565V185.45H123.971Z" transform="translate(-118.257 -172.437)" fill="#fff"/>
+        <path id="Path_237" data-name="Path 237" d="M444.755,179.141a2.311,2.311,0,0,0-1.679.688,2.281,2.281,0,0,0-.7,1.691v10.028a2.316,2.316,0,0,0,.7,1.7,2.29,2.29,0,0,0,1.679.7,2.389,2.389,0,0,0,2.4-2.4V181.52a2.28,2.28,0,0,0-.7-1.691A2.339,2.339,0,0,0,444.755,179.141Z" transform="translate(-414.32 -166.571)" fill="#fff"/>
+      </g>
+    </g>
+    <text id="Git_It_On" data-name="Git It On" transform="translate(41.031 18)" fill="#fff" font-size="15" font-family="Poppins-Light, Poppins" font-weight="300" letter-spacing="0.03em"><tspan x="0" y="0">Git It On</tspan></text>
+    <text id="Google_Play" data-name="Google Play" transform="translate(41.031 44.941)" fill="#fff" font-size="25" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Google Play</tspan></text>
+  </g>
+</svg>
