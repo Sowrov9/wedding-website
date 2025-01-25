@@ -3,51 +3,99 @@ import React from 'react'
 const SelectCategory = () => {
     return (
         <>
-            <h2 className='text-[30px] font-bold '>Select A Category</h2>
-            <div className="flex">
-                <div className="card bg-base-100 w-96 shadow-sm">
-                    <figure className="px-10 pt-10">
+            <h2 className='text-[30px] font-bold pt-10 pb-10 pl-30 pr-30'>Select A Category</h2>
+            <div className="flex pl-30 pr-30">
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
                         <img
-                            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                            alt="Shoes"
-                            class="rounded-xl" />
+                            src="../../../../public/assets/img/categories.svg" />
                     </figure>
                     <div className="card-body items-center text-center">
-                        <h2 className="card-title">Card Title</h2>
-                        <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
-                        <div className="card-actions">
-                            <button className="btn btn-primary">Buy Now</button>
-                        </div>
-                    </div>
-                </div><div className="card bg-base-100 w-96 shadow-sm">
-                    <figure className="px-10 pt-10">
-                        <img
-                            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                            alt="Shoes"
-                            class="rounded-xl" />
-                    </figure>
-                    <div className="card-body items-center text-center">
-                        <h2 className="card-title">Card Title</h2>
-                        <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
-                        <div className="card-actions">
-                            <button className="btn btn-primary">Buy Now</button>
-                        </div>
-                    </div>
-                </div><div className="card bg-base-100 w-96 shadow-sm">
-                    <figure className="px-10 pt-10">
-                        <img
-                            src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                            alt="Shoes"
-                            class="rounded-xl" />
-                    </figure>
-                    <div className="card-body items-center text-center">
-                        <h2 className="card-title">Card Title</h2>
-                        <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
-                        <div className="card-actions">
-                            <button className="btn btn-primary">Buy Now</button>
-                        </div>
+                        <h2 className="card-title">All</h2>
                     </div>
                 </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/dress2.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Bride Dress</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/make up2.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Make Up Artist</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/accessories2.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Bride Accesories</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/beauty-center2.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Beauty Center</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/camera.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Photograpar</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/trip2.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Trip</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/hotel2.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Lobby Out-In Door</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/car.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Car</h2>
+                    </div>
+                </div>
+                <div className="card bg-base-100 w-96 shadow-sm m-3">
+                    <figure className="">
+                        <img
+                            src="../../../../public/assets/img/doctor.svg" />
+                    </figure>
+                    <div className="card-body items-center text-center">
+                        <h2 className="card-title">Doctor</h2>
+                    </div>
+                </div>
+                
             </div>
 
 

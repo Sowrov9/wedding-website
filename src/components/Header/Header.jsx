@@ -3,7 +3,7 @@
 const Header = () => {
   return (
     <>
-      <div className="navbar bg-base-100 shadow-sm">
+      <div className="navbar bg-base-100 shadow-sm pl-30 pr-30">
         <div className="navbar-start">
           <a className="btn btn-ghost text-xl"><img src="../../../public/assets/img/logo.svg" alt="" /></a>
         </div>
